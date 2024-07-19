@@ -2,4 +2,6 @@ version: STSv1
 mode: enforce
 mx: eightwone-com.m-v1.mx.microsoft
 mx: eightwone-com.mail.protection.outlook.com
+mx: korfoe-com.m-v1.mx.microsoft
+mx: korfoe-com.mail.protection.outlook.com
 max_age: 604800
